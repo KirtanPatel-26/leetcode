@@ -37,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1331-rank-transform-of-an-array) |
+## String
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/KirtanPatel-26/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/KirtanPatel-26/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/KirtanPatel-26/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/KirtanPatel-26/leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
