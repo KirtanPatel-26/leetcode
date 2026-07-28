@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KirtanPatel-26/leetcode/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/KirtanPatel-26/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/KirtanPatel-26/leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/KirtanPatel-26/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KirtanPatel-26/leetcode/tree/master/0043-multiply-strings) |
 | [0371-sum-of-two-integers](https://github.com/KirtanPatel-26/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KirtanPatel-26/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KirtanPatel-26/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KirtanPatel-26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/KirtanPatel-26/leetcode/tree/master/0043-multiply-strings) |
 | [0316-remove-duplicate-letters](https://github.com/KirtanPatel-26/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KirtanPatel-26/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KirtanPatel-26/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
