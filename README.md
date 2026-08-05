@@ -232,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KirtanPatel-26/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/KirtanPatel-26/leetcode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/KirtanPatel-26/leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/KirtanPatel-26/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
