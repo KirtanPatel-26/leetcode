@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/KirtanPatel-26/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/KirtanPatel-26/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/KirtanPatel-26/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KirtanPatel-26/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KirtanPatel-26/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KirtanPatel-26/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KirtanPatel-26/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KirtanPatel-26/leetcode/tree/master/0877-stone-game) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/KirtanPatel-26/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KirtanPatel-26/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/KirtanPatel-26/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/KirtanPatel-26/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/KirtanPatel-26/leetcode/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KirtanPatel-26/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/KirtanPatel-26/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KirtanPatel-26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
