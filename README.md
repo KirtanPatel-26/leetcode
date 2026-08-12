@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KirtanPatel-26/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/KirtanPatel-26/leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KirtanPatel-26/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KirtanPatel-26/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/KirtanPatel-26/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/KirtanPatel-26/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KirtanPatel-26/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KirtanPatel-26/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KirtanPatel-26/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/KirtanPatel-26/leetcode/tree/master/3731-find-missing-elements) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/KirtanPatel-26/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KirtanPatel-26/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
 | ------- |
