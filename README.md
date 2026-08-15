@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KirtanPatel-26/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/KirtanPatel-26/leetcode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/KirtanPatel-26/leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/KirtanPatel-26/leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/KirtanPatel-26/leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanPatel-26/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/KirtanPatel-26/leetcode/tree/master/0561-array-partition) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KirtanPatel-26/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KirtanPatel-26/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/KirtanPatel-26/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/KirtanPatel-26/leetcode/tree/master/0575-distribute-candies) |
 | [1122-relative-sort-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/KirtanPatel-26/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/KirtanPatel-26/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/KirtanPatel-26/leetcode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KirtanPatel-26/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/KirtanPatel-26/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/KirtanPatel-26/leetcode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KirtanPatel-26/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
