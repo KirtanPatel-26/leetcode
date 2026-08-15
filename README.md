@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/KirtanPatel-26/leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtanPatel-26/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/KirtanPatel-26/leetcode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/KirtanPatel-26/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/KirtanPatel-26/leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/KirtanPatel-26/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KirtanPatel-26/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/KirtanPatel-26/leetcode/tree/master/0043-multiply-strings) |
+| [0566-reshape-the-matrix](https://github.com/KirtanPatel-26/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/KirtanPatel-26/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/KirtanPatel-26/leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/KirtanPatel-26/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KirtanPatel-26/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/KirtanPatel-26/leetcode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/KirtanPatel-26/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/KirtanPatel-26/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/KirtanPatel-26/leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/KirtanPatel-26/leetcode/tree/master/1672-richest-customer-wealth) |
