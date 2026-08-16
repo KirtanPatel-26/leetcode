@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/KirtanPatel-26/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KirtanPatel-26/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KirtanPatel-26/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3477-fruits-into-baskets-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3731-find-missing-elements](https://github.com/KirtanPatel-26/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/KirtanPatel-26/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KirtanPatel-26/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3477-fruits-into-baskets-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KirtanPatel-26/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/KirtanPatel-26/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/KirtanPatel-26/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [3477-fruits-into-baskets-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -315,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/KirtanPatel-26/leetcode/tree/master/0175-combine-two-tables) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
