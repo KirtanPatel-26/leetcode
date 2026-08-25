@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/KirtanPatel-26/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KirtanPatel-26/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/KirtanPatel-26/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1051-height-checker](https://github.com/KirtanPatel-26/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/KirtanPatel-26/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/KirtanPatel-26/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KirtanPatel-26/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/KirtanPatel-26/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/KirtanPatel-26/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/KirtanPatel-26/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/KirtanPatel-26/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/KirtanPatel-26/leetcode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/KirtanPatel-26/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KirtanPatel-26/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/KirtanPatel-26/leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1122-relative-sort-array) |
 ## Database
 |  |
