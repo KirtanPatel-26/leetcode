@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KirtanPatel-26/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/KirtanPatel-26/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KirtanPatel-26/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KirtanPatel-26/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KirtanPatel-26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/KirtanPatel-26/leetcode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/KirtanPatel-26/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KirtanPatel-26/leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/KirtanPatel-26/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/KirtanPatel-26/leetcode/tree/master/0344-reverse-string) |
