@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KirtanPatel-26/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KirtanPatel-26/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/KirtanPatel-26/leetcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/KirtanPatel-26/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/KirtanPatel-26/leetcode/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/KirtanPatel-26/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KirtanPatel-26/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/KirtanPatel-26/leetcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/KirtanPatel-26/leetcode/tree/master/0836-rectangle-overlap) |
 ## Polygons
 |  |
 | ------- |
