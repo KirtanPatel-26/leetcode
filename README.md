@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/KirtanPatel-26/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/KirtanPatel-26/leetcode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/KirtanPatel-26/leetcode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/KirtanPatel-26/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KirtanPatel-26/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/KirtanPatel-26/leetcode/tree/master/0709-to-lower-case) |
