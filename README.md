@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/KirtanPatel-26/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KirtanPatel-26/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/KirtanPatel-26/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KirtanPatel-26/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/KirtanPatel-26/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KirtanPatel-26/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/KirtanPatel-26/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KirtanPatel-26/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KirtanPatel-26/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KirtanPatel-26/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/KirtanPatel-26/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KirtanPatel-26/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/KirtanPatel-26/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KirtanPatel-26/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/KirtanPatel-26/leetcode/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/KirtanPatel-26/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KirtanPatel-26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
