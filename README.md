@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/KirtanPatel-26/leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/KirtanPatel-26/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/KirtanPatel-26/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0856-score-of-parentheses](https://github.com/KirtanPatel-26/leetcode/tree/master/0856-score-of-parentheses) |
 | [1002-find-common-characters](https://github.com/KirtanPatel-26/leetcode/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/KirtanPatel-26/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KirtanPatel-26/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/KirtanPatel-26/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/KirtanPatel-26/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KirtanPatel-26/leetcode/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/KirtanPatel-26/leetcode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KirtanPatel-26/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KirtanPatel-26/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KirtanPatel-26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/KirtanPatel-26/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KirtanPatel-26/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KirtanPatel-26/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
