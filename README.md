@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/KirtanPatel-26/leetcode/tree/master/0043-multiply-strings) |
+| [0089-gray-code](https://github.com/KirtanPatel-26/leetcode/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/KirtanPatel-26/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/KirtanPatel-26/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KirtanPatel-26/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KirtanPatel-26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0089-gray-code](https://github.com/KirtanPatel-26/leetcode/tree/master/0089-gray-code) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/KirtanPatel-26/leetcode/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/KirtanPatel-26/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/KirtanPatel-26/leetcode/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/KirtanPatel-26/leetcode/tree/master/1386-cinema-seat-allocation) |
