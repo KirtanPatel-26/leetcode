@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/KirtanPatel-26/leetcode/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/KirtanPatel-26/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KirtanPatel-26/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/KirtanPatel-26/leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KirtanPatel-26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KirtanPatel-26/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KirtanPatel-26/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/KirtanPatel-26/leetcode/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/KirtanPatel-26/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2409-count-days-spent-together](https://github.com/KirtanPatel-26/leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KirtanPatel-26/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
