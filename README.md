@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KirtanPatel-26/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/KirtanPatel-26/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/KirtanPatel-26/leetcode/tree/master/3895-count-digit-appearances) |
+| [3934-smallest-unique-subarray](https://github.com/KirtanPatel-26/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KirtanPatel-26/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KirtanPatel-26/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KirtanPatel-26/leetcode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/KirtanPatel-26/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/KirtanPatel-26/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KirtanPatel-26/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3934-smallest-unique-subarray](https://github.com/KirtanPatel-26/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Counting Sort
 |  |
 | ------- |
@@ -515,4 +518,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KirtanPatel-26/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/KirtanPatel-26/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/KirtanPatel-26/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/KirtanPatel-26/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
