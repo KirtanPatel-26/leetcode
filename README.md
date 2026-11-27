@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/KirtanPatel-26/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/KirtanPatel-26/leetcode/tree/master/3895-count-digit-appearances) |
 | [3934-smallest-unique-subarray](https://github.com/KirtanPatel-26/leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KirtanPatel-26/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KirtanPatel-26/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/KirtanPatel-26/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KirtanPatel-26/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/KirtanPatel-26/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/KirtanPatel-26/leetcode/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KirtanPatel-26/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/KirtanPatel-26/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
